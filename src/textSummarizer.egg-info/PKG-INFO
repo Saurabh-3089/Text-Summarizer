@@ -2,10 +2,10 @@ Metadata-Version: 2.4
 Name: textSummarizer
 Version: 0.0.0
 Summary: A small python package for NLP app
-Home-page: https://github.com/Saurabh/Text-Summarizer
-Author: Saurabh
+Home-page: https://github.com/Saurabh-3089/Text-Summarizer
+Author: Saurabh-3089
 Author-email: saurabhchauhan3089@gmail.com
-Project-URL: Bug Tracker, https://github.com/Saurabh/Text-Summarizer/issues
+Project-URL: Bug Tracker, https://github.com/Saurabh-3089/Text-Summarizer/issues
 License-File: LICENSE
 Dynamic: author
 Dynamic: author-email
@@ -16,3 +16,13 @@ Dynamic: project-url
 Dynamic: summary
 
 # Text-Summarizer
+
+## Workflows
+1. Update config.yaml
+2. Update params.yaml
+3. Update entity
+4. Update the configuration manager in src config
+5. Update the components
+6. Update the pipeline
+7. Update the main.py
+8. Update the app.py
